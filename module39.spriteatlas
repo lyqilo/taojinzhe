@@ -113,9 +113,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 2ac201b0a71041ddaec25da1ad8c3d71, type: 3}
   - {fileID: 21300000, guid: 97a7b1d0f7794ae3b1bae9c06f7e0b13, type: 3}
   - {fileID: 21300000, guid: 242f54d093334faaa03bd7b42e488c55, type: 3}
-  - {fileID: 21300000, guid: 70b475d00e76f31439fea1d188554167, type: 3}
   - {fileID: 21300000, guid: afa8a6d0fe58a384aa157e75af3aa25c, type: 3}
-  - {fileID: 21300000, guid: 0fb31fd0eadf9bc4aac0cead656fb56b, type: 3}
   - {fileID: 21300000, guid: b55223f07645c714583b0c5ca55b3a71, type: 3}
   - {fileID: 21300000, guid: 86b73301f784401fbf8b9cc184862479, type: 3}
   - {fileID: 21300000, guid: 14620401b9c047d185d523d68ae6e806, type: 3}
@@ -203,7 +201,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 1503ca5296294d03b0adba0659a26085, type: 3}
   - {fileID: 21300000, guid: b484606240e24c39bcbe81827e7980c5, type: 3}
   - {fileID: 21300000, guid: 70b4a262aa5842c3bc8e4b1b6c842c90, type: 3}
-  - {fileID: 21300000, guid: ba961372754974444b581bfe514e3ce8, type: 3}
   - {fileID: 21300000, guid: 0797d372c7ac4252ae2e3fa429a5a37c, type: 3}
   - {fileID: 21300000, guid: 1ddffb72ab162fa49acf7ad75b67c147, type: 3}
   - {fileID: 21300000, guid: 3e201c72fee24a8ca8e402cb96658b2c, type: 3}
@@ -525,7 +522,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 48988f587f519fa4fa37a5892ac7ce6a, type: 3}
   - {fileID: 21300000, guid: 73e64568840ea81488aefa5ea9488632, type: 3}
   - {fileID: 21300000, guid: 8753af68b75d94d4e976323deb47ac19, type: 3}
-  - {fileID: 21300000, guid: f4e9077862d7ba54b989872b83c39e08, type: 3}
   - {fileID: 21300000, guid: 253149785b06485094d8cbab19df2fe2, type: 3}
   - {fileID: 21300000, guid: a5967a78348306648ad9fbcad8a8cb7d, type: 3}
   - {fileID: 21300000, guid: 84b05c7861874ee4970f0f199c7a4e9a, type: 3}
@@ -807,7 +803,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 3c3cda7df3e349a4bbb1b62442882d18, type: 3}
   - {fileID: 21300000, guid: 96be3d7d76523e54298fa829ab4ce536, type: 3}
   - {fileID: 21300000, guid: 6d91e48ded7749c18f691435811b4426, type: 3}
-  - {fileID: 21300000, guid: cf6dd68d849df51448c7a94b296ad983, type: 3}
   - {fileID: 21300000, guid: 731e749dfc58c1943a5b5664ed2aaaf2, type: 3}
   - {fileID: 21300000, guid: a982a89de9ac45259e9e832c163b435b, type: 3}
   - {fileID: 21300000, guid: f1d27c9dddfbeba48af389356b2b36cd, type: 3}
@@ -865,7 +860,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 2aec7c6e6616ebb4fbb1043de275e340, type: 3}
   - {fileID: 21300000, guid: 4b8b0e6e286dc2d4b904144fd04057bc, type: 3}
   - {fileID: 21300000, guid: e8708e6efb85415b8141a66903b2139b, type: 3}
-  - {fileID: 21300000, guid: 7c2b897e31359e3489ca46820599d7c6, type: 3}
   - {fileID: 21300000, guid: b10cdb7e6c2046e9896e10b6c4313593, type: 3}
   - {fileID: 21300000, guid: bb6f7e7e4b93d9848aab06ca6bd966df, type: 3}
   - {fileID: 21300000, guid: dc27428e39e6454c875a1b1d849178ad, type: 3}
@@ -994,9 +988,7 @@ SpriteAtlas:
   - 006_d3
   - icon_b3_00008
   - icon_b1_00004
-  - fjzf
   - icon_a1_00003
-  - ycwg
   - 100
   - icon_wild_00011
   - icon_b3_wild_00019
@@ -1084,7 +1076,6 @@ SpriteAtlas:
   - tramcar1_00000
   - iconbg_right
   - icon_c2_00005
-  - gxn
   - tramcar1_00003
   - icon_b2_wild_00011
   - icon_b1_wild_00000
@@ -1406,7 +1397,6 @@ SpriteAtlas:
   - icon_a1_00001
   - icon_b2_wild_00003
   - 4
-  - gxhd
   - icon_a1_00003
   - icon_jackpot_00011
   - icon_jackpot_00021
@@ -1688,7 +1678,6 @@ SpriteAtlas:
   - icon_wild
   - icon_jackpot_00019
   - icon_a4_00004
-  - hyd
   - icon_c2_00017
   - icon_b2_a
   - icon_b2_00005
@@ -1746,7 +1735,6 @@ SpriteAtlas:
   - icon_b2_00022
   - icon_c2_00018
   - icon_scatter_00017
-  - fjtx
   - icon_jackpot_00001
   - icon_c1_00001
   - icon_wild_00009
