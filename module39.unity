@@ -4936,7 +4936,7 @@ MonoBehaviour:
   m_text: Game Rules
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 98175b32dd2e83940aa6a3ceede2f534, type: 2}
-  m_sharedMaterial: {fileID: 2100000, guid: bb3e269c83d684946b566c7436053c14, type: 2}
+  m_sharedMaterial: {fileID: -1679955777152016878, guid: 98175b32dd2e83940aa6a3ceede2f534, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4960,7 +4960,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 52.25
+  m_fontSize: 51.85
   m_fontSizeBase: 55
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -7888,7 +7888,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 1737, y: -289}
+  m_AnchoredPosition: {x: 4053, y: -289}
   m_SizeDelta: {x: 1158, y: 726}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &536518036
@@ -8409,13 +8409,13 @@ MonoBehaviour:
   m_text: Game Rules
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 98175b32dd2e83940aa6a3ceede2f534, type: 2}
-  m_sharedMaterial: {fileID: 2100000, guid: bb3e269c83d684946b566c7436053c14, type: 2}
+  m_sharedMaterial: {fileID: -1679955777152016878, guid: 98175b32dd2e83940aa6a3ceede2f534, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4283748351
+    rgba: 4279977864
   m_fontColor: {r: 0.53333336, g: 0.2784314, b: 0.10588236, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 2
@@ -10281,7 +10281,7 @@ MonoBehaviour:
   m_text: Game Rules
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 98175b32dd2e83940aa6a3ceede2f534, type: 2}
-  m_sharedMaterial: {fileID: 2100000, guid: bb3e269c83d684946b566c7436053c14, type: 2}
+  m_sharedMaterial: {fileID: -1679955777152016878, guid: 98175b32dd2e83940aa6a3ceede2f534, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -10305,7 +10305,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 52.25
+  m_fontSize: 51.85
   m_fontSizeBase: 55
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -10344,7 +10344,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &654182824
@@ -10934,14 +10934,14 @@ MonoBehaviour:
   m_text: Game Rules
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 98175b32dd2e83940aa6a3ceede2f534, type: 2}
-  m_sharedMaterial: {fileID: 2100000, guid: bb3e269c83d684946b566c7436053c14, type: 2}
+  m_sharedMaterial: {fileID: -1679955777152016878, guid: 98175b32dd2e83940aa6a3ceede2f534, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4283748351
-  m_fontColor: {r: 1, g: 0.8117648, b: 0.32941177, a: 1}
+    rgba: 4279977864
+  m_fontColor: {r: 0.53333336, g: 0.2784314, b: 0.10588236, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 2
   m_fontColorGradient:
@@ -10997,7 +10997,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &665601046
@@ -15580,7 +15580,7 @@ MonoBehaviour:
   m_text: Game Rules
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 98175b32dd2e83940aa6a3ceede2f534, type: 2}
-  m_sharedMaterial: {fileID: 2100000, guid: bb3e269c83d684946b566c7436053c14, type: 2}
+  m_sharedMaterial: {fileID: -1679955777152016878, guid: 98175b32dd2e83940aa6a3ceede2f534, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -15604,7 +15604,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 52.25
+  m_fontSize: 51.85
   m_fontSizeBase: 55
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -19610,7 +19610,7 @@ MonoBehaviour:
   m_text: Game Rules
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 98175b32dd2e83940aa6a3ceede2f534, type: 2}
-  m_sharedMaterial: {fileID: 2100000, guid: bb3e269c83d684946b566c7436053c14, type: 2}
+  m_sharedMaterial: {fileID: -1679955777152016878, guid: 98175b32dd2e83940aa6a3ceede2f534, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -19634,7 +19634,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 52.25
+  m_fontSize: 51.85
   m_fontSizeBase: 55
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -30585,14 +30585,14 @@ MonoBehaviour:
   m_text: Game Rules
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 98175b32dd2e83940aa6a3ceede2f534, type: 2}
-  m_sharedMaterial: {fileID: 2100000, guid: bb3e269c83d684946b566c7436053c14, type: 2}
+  m_sharedMaterial: {fileID: -1679955777152016878, guid: 98175b32dd2e83940aa6a3ceede2f534, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4283748351
-  m_fontColor: {r: 1, g: 0.8117648, b: 0.32941177, a: 1}
+    rgba: 4279977864
+  m_fontColor: {r: 0.53333336, g: 0.2784314, b: 0.10588236, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 2
   m_fontColorGradient:
@@ -30648,7 +30648,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &2118523133
@@ -31878,7 +31878,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 2895, y: -289}
+  m_AnchoredPosition: {x: 1737, y: -289}
   m_SizeDelta: {x: 1158, y: 726}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &4552099715560518720
